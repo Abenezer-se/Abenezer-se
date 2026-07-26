@@ -1,6 +1,6 @@
 # Hi there, I'm Abenezer Samson Zewdu 👋
 
-### Software Engineering Student | Web Developer | UI/UX Designer
+### Software Engineering Student | Web Developer | UI/UX Designer | Project Manager
 
 I am a passionate Software Engineering student from Ethiopia 🇪🇹 who enjoys building web applications, designing user interfaces, and continuously learning new technologies.
 
